@@ -7,7 +7,7 @@ I'm Jyoti Khetwal</i> </h1>
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 I’m currently pursuing **MCA (Master of Computer Applications), 1st Year**
+- 🎓 I’m currently pursuing **MCA (Master of Computer Applications), 2nd Year**
 - 🌱 Exploring the worlds of **Artificial Intelligence, Machine Learning**, and **Data Analytics**
 - 🔭 Currently building projects to apply data-driven insights and automation
 - 🤝 Open to collaborating on real-world tech solutions and open-source contributions
