@@ -1,7 +1,7 @@
 <h1 align="left">
   <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hi" width="50"/> <i>Hi there,
 I'm Jyoti Khetwal</i> </h1>
-<h3 align="left">A passionate Full Stack Developer who loves building scalable web apps, exploring new technologies, and turning ideas into real-world solutions 🌍</h3>
+<h3 align="left">A passionate AI/ML Engineer & Full Stack Developer who builds intelligent, scalable applications, explores cutting-edge AI technologies, and transforms ideas into real-world solutions 🌍</h3>
 
 
 ---
@@ -91,8 +91,7 @@ I'm Jyoti Khetwal</i> </h1>
         <p align="left"> 
          <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
           <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge" />
-           <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
- 
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
         </p>  
       </td>
     </tr>
