@@ -30,6 +30,7 @@ I'm Jyoti Khetwal</i> </h1>
       <th>🗂️ Database Technologies</th>
       <th>🧰 Libraries & Tools</th>
       <th>☁️ Deployment & DevOps</th>
+      <th>🤖 AI & Backend Ecosystem</th>
     </tr>
     <tr>
       <td>
@@ -73,6 +74,7 @@ I'm Jyoti Khetwal</i> </h1>
          <img src="https://img.shields.io/badge/Graph%20Workflows-FF4088?style=for-the-badge&logoColor=white"/><br>
          <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/><br>
          <img src="https://img.shields.io/badge/MongoDB%20Atlas-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
         </p>  
       </td>
       <td>
@@ -83,6 +85,14 @@ I'm Jyoti Khetwal</i> </h1>
          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>
          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br>
          <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+        </p>  
+      </td>
+      <td>
+        <p align="left"> 
+         <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge" />
+           <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+ 
         </p>  
       </td>
     </tr>
